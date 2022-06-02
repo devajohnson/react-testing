@@ -1,0 +1,11 @@
+.main_home {
+  justify-content: center;
+  background-color: aqua;
+}
+.home_Div {
+  float: center;
+}
+.main_button {
+  justify-content: right;
+  float: right;
+}
